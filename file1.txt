@@ -1,4 +1,0 @@
-Python Programming
-Data science
-Data Analysis
-Machine Learining
